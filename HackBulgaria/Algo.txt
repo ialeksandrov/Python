@@ -1,0 +1,6 @@
+Linear search - O(n)
+Bubble sort - O(n2)
+----------------------------
+Binary search - O(log(n))
+Quick sort - O(n2)
+			~ O (n*log(n))
